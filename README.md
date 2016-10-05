@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi guys!
+
+
+I started programming about few days ago, so i try keep myself and not go crazy.
